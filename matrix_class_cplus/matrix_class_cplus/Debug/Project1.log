@@ -1,0 +1,7 @@
+﻿cl : 命令行 warning D9035: “Zc:forScope-”选项已否决，并将在将来的版本中移除
+  my.cpp
+  matrix.cpp
+  正在生成代码...
+f:\opencv_demo\based\project1\project1\matrix.cpp(63): warning C4715: “Matrix::operator=”: 不是所有的控件路径都返回值
+  Project1.vcxproj -> F:\OPENCV_DEMO\based\Project1\Debug\Project1.exe
+  Project1.vcxproj -> F:\OPENCV_DEMO\based\Project1\Debug\Project1.pdb (Partial PDB)
