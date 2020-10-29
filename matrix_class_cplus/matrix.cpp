@@ -1,8 +1,8 @@
 /*
 author: cclplus
-date : 2018 / 12 / 09
+date : 2020 / 10 /10
 if you think it is necessary to reward me,
-my alipay account number is 707101557@qq.com
+my alipay account number is 641208111@qq.com
 */
 #include "matrix.h"
 #include "pch.h"
